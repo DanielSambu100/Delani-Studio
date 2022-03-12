@@ -3,7 +3,7 @@
 A web application that recreates the actual structure and functionality of the popular Delani Studio just to showcase my understanding of Javascript, Bootstrap and jQuery technologies, Version 1.2022.
 
 # Author: 
-Daniel Sambu.
+https://github.com/DanielSambu100/
 
 Delani Studio is an interactive web application that describes who they are, the services they render, portfolio management, and their engagenment with the clients via form filling.
 
@@ -27,7 +27,7 @@ Bootstrap5
 jQuery
 
 # Setup Instructions and Installation
-Clone this repository to a location in your file system/download zipped file.(git clone ...)
+Clone this repository to a location in your file system/download zipped file.(git clone https://github.com/DanielSambu100/Delani-Studio.git)
 
 Extract the file into folder.
 

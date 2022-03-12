@@ -1,10 +1,19 @@
 # Delani-Studio
 
-A web application that takes a user's birthday and calculates the day of the week they were born and then depending on their gender outputs their Akan Name, Version 1.2022.
+A web application that recreates the actual structure and functionality of the popular Delani Studio just to showcase my understanding of Javascript, Bootstrap and jQuery technologies, Version 1.2022.
 
-#Author: Daniel Sambu.
+# Author: 
+Daniel Sambu.
 
-Akan names are derived from Ghanian culture. Frequently in Ghana, children are given their first name as a 'day name' which corresponds to the day in the week they were born. Most people do know when their birthdays are, but some might not know what day of the week they were born. Luckily for us, there are ways to calculate the day of the week from a specific date. Hence, the ideation, design and development of this web application.
+Delani Studio is an interactive web application that describes who they are, the services they render, portfolio management, and their engagenment with the clients via form filling.
+
+# Screenshot
+
+![image](https://user-images.githubusercontent.com/98163899/158034665-1169d3e5-9fe8-4c7b-ac34-99ec87b98f5a.png)
+
+# Live Link
+
+
 
 # Technologies Used
 JavaScript
@@ -18,7 +27,7 @@ Bootstrap5
 jQuery
 
 # Setup Instructions and Installation
-Clone this repository to a location in your file system/download zipped file.
+Clone this repository to a location in your file system/download zipped file.(git clone ...)
 
 Extract the file into folder.
 
@@ -27,11 +36,6 @@ Navigate to the folder of the application.
 Open index.html on your Browser to access and manipulate the application.
 
 # User Stories
-Displays Form For Entering Date and Gender
-
-INPUT: "User's Birthdate Entered"
-
-INPUT: "User's Gender Entered"
 
 
 # Known Bugs
@@ -39,6 +43,6 @@ The application is still at its initial stages of development, so expect regular
 
 Feel  free to contribute towards this project by sending your email to info@dansamsons.co.ke
 
-License attached.
+MIT License attached.
 
 Copyright (c) 2022, Dansam Sons Ltd. All rights reserved!

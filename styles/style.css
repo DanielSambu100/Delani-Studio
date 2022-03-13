@@ -27,3 +27,6 @@ body{
 .portfolio{
     text-align: center;
 }
+.contact{
+    background-image: url(/assets/images/backgrounds/c_image.jpg);
+}

@@ -1,4 +1,4 @@
-body{
+/* body{
     font-family: 'Gabriela';
 }
 .container{
@@ -6,15 +6,18 @@ body{
     background-size: cover;
     background-position: center;
 } 
+.mouse-click{
+    animation-duration: 2s;
+}
 .about-us{
     text-align: center;
 }
-.services{
+ /* .services{
     background-image: url(/assets/images/backgrounds/s_image.jpg);
     /* background-size: cover;
-    text-align: center; */
-}
-.what-we-do{
+    text-align: center; */ 
+
+/* .what-we-do{
     text-align: center;
     padding-left: 15%;
     padding-right: 15%;
@@ -27,4 +30,24 @@ body{
 }
 .contact{
     background-image: url(/assets/images/backgrounds/c_image.jpg);
+} */ 
+.mouse-click{
+    padding: 10%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+.mouse-click{
+    animation: bounce 2s infinite;
+}
+@keyframes bounce{
+    0%, 20%, 50%, 80%, 100%{
+        transform: translateY(0);
+    }
+    40%{
+        transform: translateY(-55px);
+    }
+    60%{
+        transform: translateY(-45px);
+    }
 }

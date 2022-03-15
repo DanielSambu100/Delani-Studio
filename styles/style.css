@@ -1,37 +1,4 @@
-/* body{
-    font-family: 'Gabriela';
-}
-.container{
-    background-image: url(/assets/images/backgrounds/h_img.jpg);
-    background-size: cover;
-    background-position: center;
-} 
-.mouse-click{
-    animation-duration: 2s;
-}
-.about-us{
-    text-align: center;
-}
- /* .services{
-    background-image: url(/assets/images/backgrounds/s_image.jpg);
-    /* background-size: cover;
-    text-align: center; */ 
-
-/* .what-we-do{
-    text-align: center;
-    padding-left: 15%;
-    padding-right: 15%;
-}
-.portfolio-section{
-    text-align: center;
-}
-.portfolio{
-    text-align: center;
-}
-.contact{
-    background-image: url(/assets/images/backgrounds/c_image.jpg);
-} */ 
-.mouse-click{
+/* .mouse-click{
     padding: 10%;
     margin-left: auto;
     margin-right: auto;
@@ -50,4 +17,27 @@
     60%{
         transform: translateY(-45px);
     }
-}
+} */
+#block1 {
+    position: fixed;
+    display: none;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0,0,0,0.5);
+    z-index: 2;
+    cursor: pointer;
+  }
+  
+  #text{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    font-size: 50px;
+    color: white;
+    transform: translate(-50%,-50%);
+    -ms-transform: translate(-50%,-50%);
+  }

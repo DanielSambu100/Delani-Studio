@@ -42,7 +42,7 @@
     -ms-transform: translate(-50%,-50%);
   } */
 
-  #overlay,#overlay2,#overlay3,#overlay4,#overlay5,#overlay6,#overlay7,#overlay8{
+  #box1,#box2,#box3,#box4,#box5,#box6,#box7,#box8{
     display: none;
     color: black;
     width: 100%;
